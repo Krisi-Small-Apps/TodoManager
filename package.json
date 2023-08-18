@@ -21,5 +21,8 @@
   },
   "_moduleAliases": {
     "src": "./src/*"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
   }
 }
